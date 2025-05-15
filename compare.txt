@@ -1,0 +1,10 @@
+int jeden = 2;
+int dwa = 3;
+Integer.compare(jeden, dwa);
+String str1 = "jakis trestk"
+String str2 = "jakis inny tekst"
+str.compareTo(str2);
+
+wykorzystanie np.
+gdy lista przechowuje String
+List#sort((c1, c2) -> c1.compareTo(c2))
